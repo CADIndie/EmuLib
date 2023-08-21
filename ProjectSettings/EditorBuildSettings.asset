@@ -9,13 +9,13 @@ EditorBuildSettings:
     path: Assets/_Project/Scenes/Basic.unity
     guid: 4dec2b5f7296ef041ae3606f3e0e3fc1
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5b26d5ad2c07613498544cbda1b2f697,
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e5c545d511cb71748b49fef52442f70b,
       type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: 29017b7b803870d47a42b03a19711015,
       type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: db3d4d6a9e29e53458e9bd71b79e3e69,
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a404dbcf3df3f7040a4c28da5157fe42,
       type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 26f5368ec83e4744f81e98915a8657ce,
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 4ec7235b3abcf774896a8d62d03053fd,
       type: 2}
     xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 20fe8c1a5e79eca419b4badf8a034551,
       type: 2}

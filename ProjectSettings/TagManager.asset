@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - projectile
   layers:
   - Default
   - TransparentFX
@@ -15,6 +16,7 @@ TagManager:
   - ActivationTrigger
   - Grabbable
   - LibretroScreen
+  - DynamicPose
   - 
   - 
   - 
@@ -25,8 +27,7 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
+  - Hand
   - 
   - 
   - 
