@@ -62,7 +62,7 @@ namespace SK.Libretro.Examples
             public List<ConfigFileContent> Entries = new();
         }
 
-        private static readonly string _configFilePath = Application.streamingAssetsPath + "/GamesSetup.json";
+        private static readonly string _configFilePath = "/data/data/com.DigitalGenesis.LibretroVR/pram-shadow-files/assets/libretro~/GamesSetup.json";
 
         private void OnEnable() => LoadConfig();
 
