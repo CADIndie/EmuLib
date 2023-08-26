@@ -1,10 +1,10 @@
 {
     "Entries": [
         {
-            "CoreName": "mame2003_plus",
-            "GamesDirectory": "/data/data/com.Skurdt.LibretroUnityFE/pram-shadow-files/assets/libretro~/games",
+            "CoreName": "snes9x2005_plus",
+            "GamesDirectory": "/data/data/com.DigitalGenesis.LibretroVR/pram-shadow-files/assets/libretro~/games",
             "GameNames": [
-                "pacman"
+                "Super Mario All-Stars + Super Mario World"
             ]
         },
         {
